@@ -18,7 +18,7 @@ const Hero = () => {
         {/* right side */}
         <div className="w-full md:w-[50%] flex flex-col items-center md:items-start text-center md:text-left">
           <h1 className="text-[20px] md:text-[30px] font-serif leading-[28px]" data-aos="zoom-in-up">
-            This IS Shehla Zesshan, Front-end Developer
+            This Is Shehla Zesshan, Front-end Developer
           </h1>
           <p className="mt-[15px] md:mt-[20px] px-[15px] md:px-0">
             My name is Shehla Zeeshan. I am front-end developer. I can make any type of website front-end material.
